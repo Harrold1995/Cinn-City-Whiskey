@@ -1,0 +1,10 @@
+.jet-filters-pagination {
+	&__item {
+		display: inline-block;
+		cursor: pointer;
+	}
+
+	&__disabled {
+		display: none;
+	}
+}

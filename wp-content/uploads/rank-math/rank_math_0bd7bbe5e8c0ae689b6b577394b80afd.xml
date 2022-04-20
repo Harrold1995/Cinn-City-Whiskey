@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//cinncitywhiskey.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://cinncitywhiskey.com/</loc>
+		<lastmod>2021-09-23T11:08:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/elementor/thumbs/cinn-city-single-bottle-p63fi8aj1c4202zke5uqtjsu6a23ufpaj27ez6vl3u.png</image:loc>
+			<image:title><![CDATA[cinn-city-single-bottle]]></image:title>
+			<image:caption><![CDATA[cinn-city-single-bottle]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/10/cc-bg-1536x748.jpg</image:loc>
+			<image:caption><![CDATA[cc bg]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/08/bgwideCC2-1536x593.jpg</image:loc>
+			<image:caption><![CDATA[bgwideCC2]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2021/09/cinn-city-whiskey-2021-award-221x300.png</image:loc>
+			<image:caption><![CDATA[Cinn City Whiskey Awards]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/07/ck3-e1594896024969-768x1152.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/09/Oregon-Distillery-of-the-Year-150x150.png</image:loc>
+			<image:caption><![CDATA[Oregon-Distillery-of-the-Year]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cinncitywhiskey.com/cinnamon-whiskey/</loc>
+		<lastmod>2021-09-23T11:09:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2021/09/cinn-city-whiskey-2021-award.png</image:loc>
+			<image:title><![CDATA[Cinn City Whiskey Awards]]></image:title>
+			<image:caption><![CDATA[Cinn City Whiskey Awards]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/08/map-asia.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/07/maprlf-us-kent.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cinncitywhiskey.com/contact-us/</loc>
+		<lastmod>2021-07-26T08:52:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cinncitywhiskey.com/contact-us/thank-you/</loc>
+		<lastmod>2020-11-04T15:44:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cinncitywhiskey.com/about-us/</loc>
+		<lastmod>2020-10-23T11:37:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/07/chip-purplecc.svg</image:loc>
+			<image:title><![CDATA[chip purplecc]]></image:title>
+			<image:caption><![CDATA[chip purplecc]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/09/Jeff-Alexander-edit.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/07/Cinn-City-bg2-1024x760.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/07/chip-purplecc.svg</image:loc>
+			<image:title><![CDATA[chip purplecc]]></image:title>
+			<image:caption><![CDATA[chip purplecc]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cinncitywhiskey.com/cocktail-recipes/</loc>
+		<lastmod>2020-10-15T14:05:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/08/CC-On-The-Rocks-contrast.png</image:loc>
+			<image:caption><![CDATA[Cinn City Neat]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/08/manhattan.png</image:loc>
+			<image:caption><![CDATA[Manhattan]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cinncitywhiskey.com/wp-content/uploads/2020/08/old-fashioned.png</image:loc>
+			<image:caption><![CDATA[Old Fashioned]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cinncitywhiskey.com/add/</loc>
+		<lastmod>2020-10-14T13:46:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cinncitywhiskey.com/privacy-policy/</loc>
+		<lastmod>2020-08-24T14:28:52+00:00</lastmod>
+	</url>
+</urlset>
